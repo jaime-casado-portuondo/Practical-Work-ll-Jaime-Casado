@@ -1,6 +1,6 @@
 # Practical Work II - Personal Website (FCE)
 
-## Description of your work
+## Description of my work
 This project consists of a personal static website developed with HTML and CSS to document what I have learned in the subject Fundamentals of Infromatical Engineering (FCE).
 
 The website follows the required structure:
