@@ -1,0 +1,10 @@
+2ba520d Update README with DDD sections
+888db3d Update styles and content across multiple pages, including navigation and partner links
+0959a7c Replace JPEG images with JPEGs and add new topic page with content on Generative AI
+e448b1d Remove non-functional form message from contact page and add degree and FCE pages with course details and navigation links
+c0bddbc Add net page with partner links
+d2be346 Add styles and content to about and contact pages, update footer with author name
+c9deb5b Add about page with images, CV and social links
+caa4d2e Add contact page with form
+153fb13 Add base HTML templates and global CSS
+eb79642 Initial project structure
